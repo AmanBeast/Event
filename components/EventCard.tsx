@@ -2,6 +2,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import posthog from "posthog-js";
+
 interface Props {
     title: string;
     image: string;
